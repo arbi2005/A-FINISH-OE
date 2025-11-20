@@ -23,7 +23,7 @@ npm run dev
 # Build for production
 npm run build
 
-# Preview production build
+# Preview production build (requires a build)
 npm run preview
 ```
 
